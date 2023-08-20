@@ -1,6 +1,8 @@
-## "Flutter. Podstawy" – Krzysztof Baranowski – biblioteka pomocnicza
+## "Flutter. Podstawy" – Krzysztof Baranowski – Kod źródłowy aplikacji
 Repozytorium z aplikacjami realizowanymi w książce Flutter.Podstawy.
 
+![Okladka](https://static01.helion.com.pl/global/okladki/vbig/flupod.jpg)
+![Okladka](https://static01.helion.com.pl/global/okladki-tyl/vbig/flupod.jpg)
 
 ## Ważne linki
 
